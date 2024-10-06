@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Backend Explorer
+- 👀 I’m interested in software development and innovation.
+- 🌱 I’m currently developing & learning new technologies and frameworks to enhance my skills.
+- 💞️ I’m looking to collaborate on exciting software projects that push boundaries.
+- 📫 How to reach me: sarveshollalwar33@gmail.com | 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new coding challenges and problem-solving.
